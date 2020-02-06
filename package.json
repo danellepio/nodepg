@@ -1,0 +1,25 @@
+{
+  "name": "nodepg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "pio-prob1": "node pio-prob1.js",
+    "pio-prob2": "node pio-prob2.js",
+    "pio-prob3": "node pio-prob3.js",
+    "pio-prob4": "node pio-prob4.js",
+    "pio-prob5": "node pio-prob5.js",
+    "pio-prob6": "node pio-prob6.js",
+    "pio-prob7": "node pio-prob7.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
